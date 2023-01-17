@@ -3,7 +3,7 @@ Use this python script to convert CSV Dataset to all version of Yolo Darknet tex
 
 ## Required
 ```bash
-pip install pandas, shutil
+pip install pandas
 ```
 ## Installation
 ```bash
